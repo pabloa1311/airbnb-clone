@@ -1,0 +1,21 @@
+[debug] [2021-05-07T18:36:35.864Z] ----------------------------------------------------------------------
+[debug] [2021-05-07T18:36:35.866Z] Command:       C:\Program Files (x86)\nodejs\node.exe C:\Users\Dibujante\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-05-07T18:36:35.867Z] CLI Version:   9.10.2
+[debug] [2021-05-07T18:36:35.867Z] Platform:      win32
+[debug] [2021-05-07T18:36:35.867Z] Node Version:  v14.16.1
+[debug] [2021-05-07T18:36:35.868Z] Time:          Fri May 07 2021 13:36:35 GMT-0500 (hora estándar de Colombia)
+[debug] [2021-05-07T18:36:35.868Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-05-07T18:36:35.875Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-05-07T18:36:35.876Z] > authorizing via signed-in user (pabloa1311@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Dibujante\Desktop\Programación\Frontend developer\react\airbnb-clone
+
